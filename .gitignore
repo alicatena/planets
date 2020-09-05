@@ -1,4 +1,5 @@
+logfiles/*
 *.dat
 !final.dat
-results/
-!results/data
+results/*
+!results/data/
